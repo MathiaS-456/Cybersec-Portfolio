@@ -1,3 +1,3 @@
-Petit portfolio de mes différents projet de Cybersécurité !
+Petit portfolio de mes différents projet de Cybersécurité et d'informatique !
 
-Ce Github sert surtout de stockage et comme ca les gens peuvent lire a tout moment (si tant est que ca intéresse quelqu'un ahaha)
+Si jamais quelqu’un les lit, ce sera avec plaisir que je répondrai à vos éventuelles questions :)
